@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "Charlie Wilson",
+      "email": "charlie.wilson@example.com",
+      "role": "user",
+      "createdAt": "2024-08-28T13:10:00Z",
+      "updatedAt": "2024-08-28T13:10:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Frank Anderson",
+      "email": "frank.anderson@example.com",
+      "role": "user",
+      "createdAt": "2024-09-07T12:50:00Z",
+      "updatedAt": "2024-09-07T12:50:00Z"
+    },
+    {
+      "id": "6bbf",
+      "name": "Ganesh",
+      "email": "ganesh98@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-27T17:50:14.513Z",
+      "updatedAt": "2024-09-27T17:50:14.513Z"
+    },
+    {
+      "id": "ebc0",
+      "name": "Vinita ",
+      "email": "vin76@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-27T17:50:46.617Z",
+      "updatedAt": "2024-09-27T17:50:46.617Z"
+    },
+    {
+      "id": "bdc7",
+      "name": "Anuj Tiwari",
+      "email": "an90@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-27T17:56:37.206Z",
+      "updatedAt": "2024-09-27T17:56:37.206Z"
+    },
+    {
+      "id": "b2d5",
+      "name": "vikas ",
+      "email": "vk90@gmail.com",
+      "role": "user",
+      "createdAt": "2024-09-27T18:22:26.981Z",
+      "updatedAt": "2024-09-27T18:22:26.981Z"
+    },
+    {
+      "id": "e2d8",
+      "name": "abhi ",
+      "email": "ab33@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-27T18:26:44.225Z",
+      "updatedAt": "2024-09-27T18:26:44.225Z"
+    },
+    {
+      "id": "4746",
+      "name": "ravi",
+      "email": "ravi66@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-27T19:06:10.673Z",
+      "updatedAt": "2024-09-27T19:06:10.673Z"
+    },
+    {
+      "id": "87c7",
+      "name": "gaurav",
+      "email": "gv33@gmail.com",
+      "role": "user",
+      "createdAt": "2024-09-27T19:19:30.110Z",
+      "updatedAt": "2024-09-27T19:19:30.110Z"
+    },
+    {
+      "id": "fbf9",
+      "name": "anudha",
+      "email": "anu65@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-27T19:25:27.611Z",
+      "updatedAt": "2024-09-27T19:25:27.611Z"
+    },
+    {
+      "id": "46b5",
+      "name": "Harsh",
+      "email": "harsh55@gmail.com",
+      "role": "admin",
+      "createdAt": "2024-09-28T06:56:37.808Z",
+      "updatedAt": "2024-09-28T06:56:37.808Z"
+    },
+    {
+      "id": "583a",
+      "name": "manoj ",
+      "email": "manoj33@gmail.com",
+      "role": "user",
+      "createdAt": "2024-09-28T06:57:38.247Z",
+      "updatedAt": "2024-09-28T06:57:38.247Z"
+    },
+    {
+      "id": "8caf",
+      "name": "supreet",
+      "email": "supreet@1234",
+      "role": "HR ",
+      "createdAt": "2024-09-28T07:05:43.571Z",
+      "updatedAt": "2024-09-28T07:05:43.571Z"
+    },
+    {
+      "id": "e626",
+      "name": "Amit",
+      "email": "at55@gmail.com",
+      "role": "Admin",
+      "createdAt": "2024-09-28T13:42:28.451Z",
+      "updatedAt": "2024-09-28T13:42:28.451Z"
+    }
+  ]
+}
